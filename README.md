@@ -8,4 +8,4 @@ qualprep assists users in preparing data, particularly survey data retrieved fro
 * *example* contains a jupyter notebook walking though an illustrative application of *create_data*
 
 # Use
-The package can be installed using the Python Wheel file in the folder *dist* (qualprep-0.1.0-py3-none-any.whl). The jupyter notebook in the folder *example* walks through an illustrative application of *create_data*. 
+The package can be installed using the Python Wheel file in the folder *dist* (qualprep-0.1.1-py3-none-any.whl). The jupyter notebook in the folder *example* walks through an illustrative application of *create_data*. 
